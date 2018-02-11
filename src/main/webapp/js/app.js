@@ -1,0 +1,1 @@
+var employeeApp = angular.module('employeeApp', ['employeeApp.controllers','employeeApp.services']);
